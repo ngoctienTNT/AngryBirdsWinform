@@ -1,0 +1,19 @@
+D:\Code\Winform\Angry Birds\Angry Birds\bin\Debug\Angry Birds.exe.config
+D:\Code\Winform\Angry Birds\Angry Birds\bin\Debug\Angry Birds.exe
+D:\Code\Winform\Angry Birds\Angry Birds\bin\Debug\Angry Birds.pdb
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry Birds.csproj.AssemblyReference.cache
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry_Birds.Main.resources
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry_Birds.Properties.Resources.resources
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry Birds.csproj.GenerateResource.cache
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry Birds.csproj.CoreCompileInputs.cache
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry Birds.exe
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry Birds.pdb
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry_Birds.GamePlay.resources
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry_Birds.EndGame.resources
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry_Birds.About.resources
+D:\Code\Winform\Angry Birds\Angry Birds\bin\Debug\Geckofx-Core.dll
+D:\Code\Winform\Angry Birds\Angry Birds\bin\Debug\Geckofx-Winforms.dll
+D:\Code\Winform\Angry Birds\Angry Birds\bin\Debug\Geckofx-Core.pdb
+D:\Code\Winform\Angry Birds\Angry Birds\bin\Debug\Geckofx-Core.dll.config
+D:\Code\Winform\Angry Birds\Angry Birds\bin\Debug\Geckofx-Winforms.pdb
+D:\Code\Winform\Angry Birds\Angry Birds\obj\Debug\Angry Birds.csproj.CopyComplete
